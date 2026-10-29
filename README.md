@@ -3,7 +3,7 @@
 ## Project Overview
 This project uses an Artificial Neural Network (ANN) to predict whether a person's annual income is above $50,000 based on demographic and employment-related information.
 
-## video explanation of the project
+## explanation video of the project
 https://drive.google.com/file/d/19rvRA38l0Q5Vo41xpakljM5yYj-Df7xT/view?usp=sharing
 
 ## Dataset
